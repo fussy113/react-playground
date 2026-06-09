@@ -4,16 +4,16 @@ React + TypeScript の実験・学習用 playground。
 
 ## 技術スタック
 
-| 領域 | 採用 |
-| --- | --- |
-| ビルドツール | [Vite](https://vite.dev/) + `@vitejs/plugin-react` |
-| 言語 | TypeScript |
-| UI | React 19 |
-| スタイリング | [Tailwind CSS v4](https://tailwindcss.com/)（`@tailwindcss/vite`） |
-| テスト | [Vitest](https://vitest.dev/) + [Testing Library](https://testing-library.com/)（jsdom） |
-| Lint | [oxlint](https://oxc.rs/docs/guide/usage/linter)（Oxc） |
-| Format | [oxfmt](https://oxc.rs/docs/guide/usage/formatter)（Oxc, beta） |
-| ランタイム管理 | [mise](https://mise.jdx.dev/)（node / pnpm をバージョン固定） |
+| 領域           | 採用                                                                                     |
+| -------------- | ---------------------------------------------------------------------------------------- |
+| ビルドツール   | [Vite](https://vite.dev/) + `@vitejs/plugin-react`                                       |
+| 言語           | TypeScript                                                                               |
+| UI             | React 19                                                                                 |
+| スタイリング   | [Tailwind CSS v4](https://tailwindcss.com/)（`@tailwindcss/vite`）                       |
+| テスト         | [Vitest](https://vitest.dev/) + [Testing Library](https://testing-library.com/)（jsdom） |
+| Lint           | [oxlint](https://oxc.rs/docs/guide/usage/linter)（Oxc）                                  |
+| Format         | [oxfmt](https://oxc.rs/docs/guide/usage/formatter)（Oxc, beta）                          |
+| ランタイム管理 | [mise](https://mise.jdx.dev/)（node / pnpm をバージョン固定）                            |
 
 ## 必要なもの
 
