@@ -30,7 +30,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.1.0",
     "@vitest/coverage-v8": "^4.1.8",
-    "jsdom": "^29.1.1",
+    "jsdom": "^30.0.0",
     "oxfmt": "^0.66.0",
     "oxlint": "^1.68.0",
     "tailwindcss": "^4.3.0",
